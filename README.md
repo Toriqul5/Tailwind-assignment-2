@@ -1,1 +1,1 @@
-https://toriqul5.github.io/Tailwind-assignment-2/
+https://tailwind-assignment-2-ch65xuxmw-toriqul5s-projects.vercel.app/
